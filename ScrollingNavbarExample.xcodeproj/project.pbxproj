@@ -13,6 +13,7 @@
 		0C0A7F2522267BF8000A8F41 /* ScrollingNavbarExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0C0A7F2322267BF8000A8F41 /* ScrollingNavbarExample.xcdatamodeld */; };
 		0C0A7F2722267BF9000A8F41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C0A7F2622267BF9000A8F41 /* Assets.xcassets */; };
 		0C0A7F2A22267BF9000A8F41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C0A7F2822267BF9000A8F41 /* LaunchScreen.storyboard */; };
+		0C0A7F32222689C1000A8F41 /* NavBarTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0A7F31222689C1000A8F41 /* NavBarTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0C0A7F2622267BF9000A8F41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C0A7F2922267BF9000A8F41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C0A7F2B22267BF9000A8F41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C0A7F31222689C1000A8F41 /* NavBarTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0C0A7F2822267BF9000A8F41 /* LaunchScreen.storyboard */,
 				0C0A7F2B22267BF9000A8F41 /* Info.plist */,
 				0C0A7F2322267BF8000A8F41 /* ScrollingNavbarExample.xcdatamodeld */,
+				0C0A7F31222689C1000A8F41 /* NavBarTableViewController.swift */,
 			);
 			path = ScrollingNavbarExample;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				0C0A7F1F22267BF8000A8F41 /* ViewController.swift in Sources */,
 				0C0A7F1D22267BF8000A8F41 /* AppDelegate.swift in Sources */,
 				0C0A7F2522267BF8000A8F41 /* ScrollingNavbarExample.xcdatamodeld in Sources */,
+				0C0A7F32222689C1000A8F41 /* NavBarTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
