@@ -1,0 +1,3 @@
+# DynamicNavigationBar
+
+![](sample.gif)
